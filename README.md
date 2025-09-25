@@ -60,23 +60,23 @@ _This section will provide a detailed description of the project, its goals, and
 
 # Software Test Plan
 1. Conduct multiple logins for different user types to ensure the system identifies each specific user type individually.
-1.1 Perform multiple logins of each user type using one or more uppercase characters
-1.2 Test each user type's password entry with and without a single uppercase character and special character.
+1.1. Perform multiple logins of each user type using one or more uppercase characters
+1.2. Test each user type's password entry with and without a single uppercase character and special character.
 
 2. Schedule should be generated with classes approprate for the majors/minors of the student
-2.1 Test that student has all prerequisites for scheduled classes
-2.2 Test that generated schedule matches the students credit hours
+2.1. Test that student has all prerequisites for scheduled classes
+2.2. Test that generated schedule matches the students credit hours
 
 3. Test that an allowed/unallowed co-op works/fails
-3.1 Test an extended gratuation plan feasibility in the case of a co-op extension
-3.2 Test that the system notifies the user if their current class schedule is too few credit hours to fit a co-op without altering their graduation timeline.
+3.1. Test an extended gratuation plan feasibility in the case of a co-op extension
+3.2. Test that the system notifies the user if their current class schedule is too few credit hours to fit a co-op without altering their graduation timeline.
 
 4. Test that any changes made by a student user notify faculty
-4.1 Test that any co-op requests or schedule changes can't be officially made without faculty approval
-4.2 Test that faculty class recommendations take precedent over system recommendations
+4.1. Test that any co-op requests or schedule changes can't be officially made without faculty approval
+4.2. Test that faculty class recommendations take precedent over system recommendations
 
 5. Test that classes outside of WSU catalog aren't available to students
-5.1 Test that only admin user types have the ability to modify user accounts
-5.2 Test that users cannot take classes that do not fall within their major requirements
+5.1. Test that only admin user types have the ability to modify user accounts
+5.2. Test that users cannot take classes that do not fall within their major requirements
 
 
