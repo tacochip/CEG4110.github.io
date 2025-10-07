@@ -34,7 +34,21 @@ This week, our work mainly consisted of polishing our requirements documents fro
 
 ## Week 5:
 ### Progress Report:
----
+On the fifth week of work, our team began figuring out how we were going to approach the next objective; Creating a fully functional front end by October 16th. The software that we had previously chosen to use already included a login system, user management, and a feature to create pages and manage who has access to them. The work conducted mainly consisted of research and summing up what pages needed to be included and the UI for each page. 
+
+### Number of Meetings: 1
+
+### Group Work-Hours: 2
+
+## Week 6:
+### Progress Report:
+After referring to the conclusions from the previous week, our group spent this meeting creating a full front-end. This included a schedule query page, faculty approve/deny page, and a page where the student can add/drop classes per the semester of their choice. The rest of our time met was dedicated to figuring out how we will transfer class data, student input, and faculty-student cases between pages through the back-end. 
+
+### Number of Meetings: 1
+
+### Group Work-Hours: 2
+
+
 
 # Team Member Information
 
