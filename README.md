@@ -48,6 +48,36 @@ After referring to the conclusions from the previous week, our group spent this 
 
 ### Group Work-Hours: 2
 
+## Week 7:
+### Progress Report:
+With the upcoming mid-term demonstration day, our group polished our front-end and made sure it met all requirements concerning the front-end of the design project. This included establishing a password-lockout function on the login page, editing previous pages to be webforms to allow for easier selection and UI, and providing quick-links on user pages to grant easy access to required webforms. 
+ 
+### Number of Meetings: 2
+
+### Group Work-Hours: 3
+
+## Week 8:
+### Progress Report: This week contained the "mid-term demo day". Our group had already established a solid front-end for our website and decided on Tuesday that we were fully ready to present the following Thursday. On Thursday, our project website was presented to Sean Banerjee and received light constructive criticism that offered new insight to how we will construct our back-end information flow. No further work was completed after presenting the project. 
+ 
+### Number of Meetings: 0
+
+### Group Work-Hours: 0
+
+## Week 9:
+### Progress Report: The week following the mid-term, our group began constructing our back-end and information transfer. This included a constructing a notification system, working on webform logic, and installing appropriate plugins on Drupal that perform certain functions needed for course logic. Seeing as this was the first week fully concentrating on the back-end, our group dedicated more time to fully understand how we will go about constructing the rest of our website rather than implementing functions right away. 
+
+### Number of Meetings: 2
+
+### Group Work-Hours: 3
+
+## Week 10:
+### Progress Report:
+
+
+### Number of Meetings: 
+
+### Group Work-Hours: 
+
 
 
 # Team Member Information
