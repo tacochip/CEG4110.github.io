@@ -88,7 +88,7 @@ Our team spent this week focusing on updating student information and creating t
 
 ### Group Work-Hours: 3
 
-## Week 12:
+## Week 12: check 14
 ### Progress Report:
 
 
@@ -104,7 +104,7 @@ Our team spent this week focusing on updating student information and creating t
 
 ### Group Work-Hours: 
 
-## Week 14:
+## Week 14: **thanksgiving week**
 ### Progress Report:
 
 
