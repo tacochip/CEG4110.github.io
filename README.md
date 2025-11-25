@@ -57,20 +57,62 @@ With the upcoming mid-term demonstration day, our group polished our front-end a
 ### Group Work-Hours: 3
 
 ## Week 8:
-Progress Report: This week contained the "mid-term demo day". Our group had already established a solid front-end for our website and decided on Tuesday that we were fully ready to present the following Thursday. On Thursday, our project website was presented to Sean Banerjee and received light constructive criticism that offered new insight to how we will construct our back-end information flow. No further work was completed after presenting the project. 
+### Progress Report: 
+This week contained the "mid-term demo day". Our group had already established a solid front-end for our website and decided on Tuesday that we were fully ready to present the following Thursday. On Thursday, our project website was presented to Sean Banerjee and received light constructive criticism that offered new insight to how we will construct our back-end information flow. No further work was completed after presenting the project. 
  
 ### Number of Meetings: 0
 
 ### Group Work-Hours: 0
 
 ## Week 9:
-Progress Report: The week following the mid-term, our group began constructing our back-end and information transfer. This included a constructing a notification system, working on webform logic, and installing appropriate plugins on Drupal that perform certain functions needed for course logic. Seeing as this was the first week fully concentrating on the back-end, our group dedicated more time to fully understand how we will go about constructing the rest of our website rather than implementing functions right away. 
+### Progress Report: 
+The week following the mid-term, our group began constructing our back-end and information transfer. This included a constructing a notification system, working on webform logic, and installing appropriate plugins on Drupal that perform certain functions needed for course logic. Seeing as this was the first week fully concentrating on the back-end, our group dedicated more time to fully understand how we will go about constructing the rest of our website rather than implementing functions right away. 
 
 ### Number of Meetings: 2
 
 ### Group Work-Hours: 3
 
 ## Week 10:
+### Progress Report: 
+The work continued this week with our notification system and webform logic. A faculty notification system was created which displays student submissions in descending chronological order. Our group utilized the Drupal "Views" structure to create content blocks that appear on specific user pages. For example, the "Faculty Notification" block was restricted to the home pages of users under the "faculty" role. 
+
+### Number of Meetings: 2
+
+### Group Work-Hours: 3
+
+## Week 11:
+### Progress Report:
+Our team spent this week focusing on updating student information and creating two Student Notification blocks. The first block displays current student submissions (if they require approval). The second displays the result of the approval process after it has been reviewed. In regards to student information, our group was simply making sure the student's major, minor, co-op request, and credit hours are updated on their student information page every time they make a new submission. 
+
+### Number of Meetings: 2
+
+### Group Work-Hours: 3
+
+## Week 12:
+### Progress Report:
+
+
+### Number of Meetings: 1
+
+### Group Work-Hours: 2
+
+## Week 13:
+### Progress Report:
+
+
+### Number of Meetings: 
+
+### Group Work-Hours: 
+
+## Week 14:
+### Progress Report:
+
+
+### Number of Meetings: 
+
+### Group Work-Hours: 
+
+## Week 15:
 ### Progress Report:
 
 
