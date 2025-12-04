@@ -34,7 +34,7 @@ This week, our work mainly consisted of polishing our requirements documents fro
 
 ## Week 5:
 ### Progress Report:
-On the fifth week of work, our team began figuring out how we were going to approach the next objective; Creating a fully functional front end by October 16th. The software that we had previously chosen to use already included a login system, user management, and a feature to create pages and manage who has access to them. The work conducted mainly consisted of research and summing up what pages needed to be included and the UI for each page. 
+On the fifth week of work, our team began figuring out how we were going to approach the next objective; Creating a fully functional frontend by October 16th. The software that we had previously chosen to use already included a login system, user management, and a feature to create pages and manage who has access to them. The work conducted mainly consisted of research and summing up what pages needed to be included and the UI for each page. 
 
 ### Number of Meetings: 1
 
@@ -42,7 +42,7 @@ On the fifth week of work, our team began figuring out how we were going to appr
 
 ## Week 6:
 ### Progress Report:
-After referring to the conclusions from the previous week, our group spent this meeting creating a full front-end. This included a schedule query page, faculty approve/deny page, and a page where the student can add/drop classes per the semester of their choice. The rest of our time met was dedicated to figuring out how we will transfer class data, student input, and faculty-student cases between pages through the back-end. 
+After referring to the conclusions from the previous week, our group spent this meeting creating a full frontend. This included a schedule query page, faculty approve/deny page, and a page where the student can add/drop classes per the semester of their choice. The rest of our time met was dedicated to figuring out how we will transfer class data, student input, and faculty-student cases between pages through the backend. 
 
 ### Number of Meetings: 1
 
@@ -50,7 +50,7 @@ After referring to the conclusions from the previous week, our group spent this 
 
 ## Week 7:
 ### Progress Report:
-With the upcoming mid-term demonstration day, our group polished our front-end and made sure it met all requirements concerning the front-end of the design project. This included establishing a password-lockout function on the login page, editing previous pages to be webforms to allow for easier selection and UI, and providing quick-links on user pages to grant easy access to required webforms. 
+With the upcoming mid-term demonstration day, our group polished our frontend and made sure it met all requirements concerning the frontend of the design project. This included establishing a password-lockout function on the login page, editing previous pages to be webforms to allow for easier selection and UI, and providing quick-links on user pages to grant easy access to required webforms. 
  
 ### Number of Meetings: 2
 
@@ -58,7 +58,7 @@ With the upcoming mid-term demonstration day, our group polished our front-end a
 
 ## Week 8:
 ### Progress Report: 
-This week contained the "mid-term demo day". Our group had already established a solid front-end for our website and decided on Tuesday that we were fully ready to present the following Thursday. On Thursday, our project website was presented to Sean Banerjee and received light constructive criticism that offered new insight to how we will construct our back-end information flow. No further work was completed after presenting the project. 
+This week contained the "mid-term demo day". Our group had already established a solid frontend for our website and decided on Tuesday that we were fully ready to present the following Thursday. On Thursday, our project website was presented to Sean Banerjee and received light constructive criticism that offered new insight to how we will construct our backend information flow. No further work was completed after presenting the project. 
  
 ### Number of Meetings: 0
 
@@ -66,7 +66,7 @@ This week contained the "mid-term demo day". Our group had already established a
 
 ## Week 9:
 ### Progress Report: 
-The week following the mid-term, our group began constructing our back-end and information transfer. This included a constructing a notification system, working on webform logic, and installing appropriate plugins on Drupal that perform certain functions needed for course logic. Seeing as this was the first week fully concentrating on the back-end, our group dedicated more time to fully understand how we will go about constructing the rest of our website rather than implementing functions right away. 
+The week following the mid-term, our group began constructing our backend and information transfer. This included a constructing a notification system, working on webform logic, and installing appropriate plugins on Drupal that perform certain functions needed for course logic. Seeing as this was the first week fully concentrating on the backend, our group dedicated more time to fully understand how we will go about constructing the rest of our website rather than implementing functions right away. 
 
 ### Number of Meetings: 2
 
@@ -89,7 +89,8 @@ Our team spent this week focusing on updating student information and creating t
 ### Group Work-Hours: 3
 
 ## Week 12: check 14
-### Progress Report: This week, our group began our schedule generation logic as well as the SRS document. Schedule generation work included getting our own SSH keys to work within the Drupal project, developing code, and practicing implementation on the website. The SRS document began construction but was not complete. 
+### Progress Report: 
+This week, our group began our schedule generation logic as well as the SRS document. Schedule generation work included getting our own SSH keys to work within the Drupal project, developing code, and practicing implementation on the website. The SRS document began construction but was not completed. 
 
 
 ### Number of Meetings: 1
@@ -97,7 +98,8 @@ Our team spent this week focusing on updating student information and creating t
 ### Group Work-Hours: 2
 
 ## Week 13:
-### Progress Report: Team 1 continued to work on the schedule generation logic as well as the SRS document. The SRS document was mostly completed with the last two sections being left blank. The bulk of the document was within the "System Features" section, which was completed. On the other side of the project, the schedule generation logic was continually worked on throughout the week with ample progress being made. 
+### Progress Report: 
+Team 1 continued to work on the schedule generation logic as well as the SRS document. The SRS document was mostly completed with the last two sections being left blank. The bulk of the document was within the "System Features" section, which was completed. On the other side of the project, the schedule generation logic was continually worked on throughout the week with ample progress being made. 
 
 
 ### Number of Meetings: 2
@@ -105,7 +107,8 @@ Our team spent this week focusing on updating student information and creating t
 ### Group Work-Hours: 3
 
 ## Week 14: **Thanksgiving Week**
-### Progress Report: Our group only met one time this week due to Thanksgiving Break the following Thursday from our Tuesday meeting. In this meeting, the SRS document was fully complete and the work on the schedule generation algorithm began to come to a close. Work to be done includes; Polishing website, proofreading/editing SRS document, and checking test cases once the algorithm is complete.
+### Progress Report: 
+Our group only met one time this week due to Thanksgiving Break the following Thursday from our Tuesday meeting. In this meeting, the SRS document was fully complete and the work on the schedule generation algorithm began to come to a close. Work to be done includes; Polishing website, proofreading/editing SRS document, and checking test cases once the algorithm is complete.
 
 
 ### Number of Meetings: 1
@@ -113,7 +116,8 @@ Our team spent this week focusing on updating student information and creating t
 ### Group Work-Hours: 2
 
 ## Week 15:
-### Progress Report: This week began rough with a snow day on what was supposed to be our first of two meetings. Starting Thursday, our group finally wrapped up our schedule generation logic and implemented it into our project website. We also proofread our SRS and decided to remove a few things that we didn't end up implementing, such as certain warning or error messages. Team 1 plans on making sure our test cases work and the UI of the website is smooth before our demo-day a week from this Thursday. 
+### Progress Report: 
+This week began rough with a snow day on what was supposed to be our first of two meetings. Starting Thursday, our group finally wrapped up our schedule generation logic and implemented it into our project website. We also proofread our SRS and decided to remove a few things that we didn't end up implementing, such as certain warning or error messages. Team 1 plans on making sure our test cases work and the UI of the website is smooth before our demo-day a week from this Thursday. 
 
 
 ### Number of Meetings: 1
