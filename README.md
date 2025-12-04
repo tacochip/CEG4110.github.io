@@ -136,13 +136,15 @@ Our team spent this week focusing on updating student information and creating t
 ---
 
 # Project Overview
-_This section will provide a detailed description of the project, its goals, and functionality._
+This project is a Drupal-based academic schedule generation portal designed to streamline how students plan and obtain approval for their semester schedules. The system allows students to enter key academic preferences—including major(s), minor(s), co-op participation, and desired credit hour load—and automatically generates an optimized course schedule based on institutional rules, program requirements, and course availability.
+The portal centralizes what is normally a manual, advisor-driven process. By integrating dynamic forms, automated validation logic, and role-based workflows, the system ensures that schedule submissions meet academic guidelines while still providing flexibility. Students requesting exceptions—such as enrolling in fewer than 11 or more than 20 credit hours, or adding a co-op term—are automatically routed to faculty for review. Once approved, the system updates the student’s generated schedule accordingly.
+Overall, the goal of this project is to deliver a user-friendly scheduling tool that reduces administrative overhead, increases accuracy in academic planning, and improves the student advising experience through automation and intelligent workflow design.
 
----
+
 
 # Software Requirement Specification (SRS)
 
----
+[SRS](https://raidermailwright-my.sharepoint.com/:w:/g/personal/ojanama_2_wright_edu/IQBDcJIWCIIaRYS9EFjNC_J4ASjhseHB9Kac6ZXXst19Zl4?e=DK4FsO)
 
 # Software Test Plan
 # Test Cases
