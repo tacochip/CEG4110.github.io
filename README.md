@@ -89,7 +89,7 @@ Our team spent this week focusing on updating student information and creating t
 ### Group Work-Hours: 3
 
 ## Week 12: check 14
-### Progress Report:
+### Progress Report: This week, our group began our schedule generation logic as well as the SRS document. Schedule generation work included getting our own SSH keys to work within the Drupal project, developing code, and practicing implementation on the website. The SRS document began construction but was not complete. 
 
 
 ### Number of Meetings: 1
@@ -97,28 +97,33 @@ Our team spent this week focusing on updating student information and creating t
 ### Group Work-Hours: 2
 
 ## Week 13:
-### Progress Report:
+### Progress Report: Team 1 continued to work on the schedule generation logic as well as the SRS document. The SRS document was mostly completed with the last two sections being left blank. The bulk of the document was within the "System Features" section, which was completed. On the other side of the project, the schedule generation logic was continually worked on throughout the week with ample progress being made. 
 
 
-### Number of Meetings: 
+### Number of Meetings: 2
 
-### Group Work-Hours: 
+### Group Work-Hours: 3
 
-## Week 14: **thanksgiving week**
-### Progress Report:
+## Week 14: **Thanksgiving Week**
+### Progress Report: Our group only met one time this week due to Thanksgiving Break the following Thursday from our Tuesday meeting. In this meeting, the SRS document was fully complete and the work on the schedule generation algorithm began to come to a close. Work to be done includes; Polishing website, proofreading/editing SRS document, and checking test cases once the algorithm is complete.
 
 
-### Number of Meetings: 
+### Number of Meetings: 1
 
-### Group Work-Hours: 
+### Group Work-Hours: 2
 
 ## Week 15:
-### Progress Report:
+### Progress Report: This week began rough with a snow day on what was supposed to be our first of two meetings. Starting Thursday, our group finally wrapped up our schedule generation logic and implemented it into our project website. We also proofread our SRS and decided to remove a few things that we didn't end up implementing, such as certain warning or error messages. Team 1 plans on making sure our test cases work and the UI of the website is smooth before our demo-day a week from this Thursday. 
 
 
-### Number of Meetings: 
+### Number of Meetings: 1
 
-### Group Work-Hours: 
+### Group Work-Hours: 2
+
+## Week 16: 
+### Progress Report: 
+
+## Number of Meetings:
 
 
 
