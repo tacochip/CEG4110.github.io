@@ -18,7 +18,7 @@ Our team began our project by creating our team website through Github Pages (th
 
 ## Week 3:
 ### Progress Report:
-Our team acknowledged the due dates for the requirements spreadsheet and requirements presenation and began deciding what our top five requirements would be for this project. Once decided, we began by listing our top five requirements on the spreadsheet template and at least two sub-requirements for each. After filling in the sections on the spreadsheet that could be addressed with our current progress, we began creating our top five requirements presenation using the provided template.
+Our team acknowledged the due dates for the requirements spreadsheet and requirements presentation and began deciding what our top five requirements would be for this project. Once decided, we began by listing our top five requirements on the spreadsheet template and at least two sub-requirements for each. After filling in the sections on the spreadsheet that could be addressed with our current progress, we began creating our top five requirements presenation using the provided template.
 
 ### Number of Meetings: 2
 
